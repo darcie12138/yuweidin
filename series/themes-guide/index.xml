@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themes Guide on Yuwei Ding</title>
-    <link>http://localhost:1313/series/themes-guide/</link>
+    <link>https://darcie12138.github.io/yuweidin/series/themes-guide/</link>
     <description>Recent content in Themes Guide on Yuwei Ding</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://darcie12138.github.io/yuweidin/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

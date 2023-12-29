@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yuwei Ding</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://darcie12138.github.io/yuweidin/tags/</link>
     <description>Recent content in Tags on Yuwei Ding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Nov 2023 15:38:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Nov 2023 15:38:30 +0800</lastBuildDate><atom:link href="https://darcie12138.github.io/yuweidin/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MF</title>
-      <link>http://localhost:1313/tags/mf/</link>
+      <link>https://darcie12138.github.io/yuweidin/tags/mf/</link>
       <pubDate>Fri, 03 Nov 2023 15:38:30 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/mf/</guid>
+      <guid>https://darcie12138.github.io/yuweidin/tags/mf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
+      <link>https://darcie12138.github.io/yuweidin/tags/travel/</link>
       <pubDate>Fri, 03 Nov 2023 15:38:30 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <guid>https://darcie12138.github.io/yuweidin/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>http://localhost:1313/tags/project/</link>
+      <link>https://darcie12138.github.io/yuweidin/tags/project/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/project/</guid>
+      <guid>https://darcie12138.github.io/yuweidin/tags/project/</guid>
       <description></description>
     </item>
     
